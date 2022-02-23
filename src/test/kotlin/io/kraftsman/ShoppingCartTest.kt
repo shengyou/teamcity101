@@ -22,5 +22,4 @@ class ShoppingCartTest : FunSpec({
             cart.totalPrice() shouldBe 200
         }
     }
-
 })
